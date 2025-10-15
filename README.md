@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/SEU_USER_ID_AQUI?v=4" width="150px;" alt="Sua Foto de Perfil" />
+
   <h1>Martha Beatriz Soares Valerio</h1>
 </div>
 
@@ -62,7 +61,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub (Opcional - Adiciona uma seção visual de estatísticas)
+## 📊 Estatísticas 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Martha-coda&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martha-coda&layout=compact&theme=dark"/>
