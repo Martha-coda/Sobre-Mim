@@ -65,10 +65,9 @@
 ## 📊 Estatísticas do GitHub (Opcional - Adiciona uma seção visual de estatísticas)
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_AQUI&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_AQUI&layout=compact&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martha-coda&layout=compact&theme=dark"/>
 </div>
 
-⚠️ **Importante:** Substitua `SEU_USERNAME_AQUI` pelo seu nome de usuário do GitHub e `SEU_USER_ID_AQUI` na foto de perfil para que as imagens funcionem corretamente.
 
 ---
 
